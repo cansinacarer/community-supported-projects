@@ -22,3 +22,4 @@ Note that these projects have not been security tested by dotmailer. If you deve
 * [RSForm!Pro Joomla! - dotmailer integration](https://www.rsjoomla.com/blog/view/312-rsformpro-dotmailer-integration.html)
 * [dotmailer woocommerce integration](https://plugins.leewillis.co.uk/downloads/dotmailer-woocommerce/)
 * [Saleslogix / Infor CRM](https://github.com/dotmailer/saleslogix-connector)
+* [Easy Editor Extension Blocks for Google Promo Tab Features](https://github.com/cansinacarer/DotDigital-Editor-Extension-for-Google-Promo-Tab-Annotations)
